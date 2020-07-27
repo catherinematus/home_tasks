@@ -1,2 +1,2 @@
-a='evening'
+a='morning'
 print(a[:5])
